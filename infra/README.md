@@ -40,4 +40,5 @@ No modules.
 |------|-------------|
 | <a name="output_nlb_dns_name"></a> [nlb\_dns\_name](#output\_nlb\_dns\_name) | n/a |
 | <a name="output_target_group_arn"></a> [target\_group\_arn](#output\_target\_group\_arn) | n/a |
+Leonardo Barbosa
 <!-- END_TF_DOCS -->
